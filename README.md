@@ -7,4 +7,4 @@ made with sfml
 
 # Demonstration of the program
 
-<gif src="./pic/dev22.gif">
+<image src="./pic/dev22.gif">
