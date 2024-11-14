@@ -8,3 +8,7 @@ made with sfml
 # Demonstration of the program
 
 <image src="./pic/dev22.gif">
+
+---------------------------
+
+by student RIS-22-2b Mizev V.A.
