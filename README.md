@@ -1,5 +1,5 @@
 # Perm National Research Polytechnic University
-# Binary trees.
+# Laboratory work 1. Binary trees.
 
 made with sfml
 
